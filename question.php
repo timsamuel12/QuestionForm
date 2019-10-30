@@ -1,5 +1,10 @@
 <?php
-
+    if(isset($_POST['submit']))
+    {
+        $qname = $_POST['qname'];
+        $body = $_POST['body'];
+        $skills = $_POST['skills'];
+    }
 ?>
 
 <!DOCTYPE html>
