@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447c5fcc-3f9d-411e-9934-5fcb16127fc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/question.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572441329031</updated>
-      <workItem from="1572441330235" duration="403000" />
+      <workItem from="1572441330235" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1572441376797</created>
@@ -57,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572441376797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setting up HTML Fields">
+      <created>1572441749066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572441749066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Set up PHP variables">
+      <created>1572441857903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572441857903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +77,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Setting up HTML Fields" />
+    <MESSAGE value="Set up PHP variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up PHP variables" />
   </component>
 </project>
